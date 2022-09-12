@@ -1,6 +1,8 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
-</div>
+[comment]: <> (<div align="center">)
+
+[comment]: <> (<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>)
+
+[comment]: <> (</div>)
 
 # FaceNetAuthentication
 
@@ -20,13 +22,11 @@ TensorFlow Lite is an open source deep learning framework for on-device inferenc
 
 https://www.tensorflow.org/lite
 
-#### Flutter + Tensrorflow lite = tflite_flutter package 
+#### Flutter + Tensrorflow lite = tflite_flutter package
 TensorFlow Lite plugin provides a dart API for accessing TensorFlow Lite interpreter and performing inference. It binds to TensorFlow Lite C API using dart:ffi.
 
 https://pub.dev/packages/tflite_flutter/install
 
-## Support
-If you're interested in contributing, please let me know emailing me to marcoscarlomagno1@gmail.com
 
 ## Setup
 
@@ -55,17 +55,18 @@ pod install
 flutter run
 ```
 
-To run on iOS you need to have a developer account.
-See here https://stackoverflow.com/a/4952845
 
-## Screenshots
-<div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
-</div>
+[comment]: <> (## Screenshots)
 
-## Licence
+[comment]: <> (<div align="center">)
 
-https://opensource.org/licenses/BSD-3-Clause
+[comment]: <> (<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>)
+
+[comment]: <> (</div>)
+
+[comment]: <> (## Licence)
+
+[comment]: <> (https://opensource.org/licenses/BSD-3-Clause)
 
 
 
